@@ -190,15 +190,6 @@ Learning and building together.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ebtihel1&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebtihel1&layout=compact&hide_border=true" height="165" />
-
-</div>
 
 ---
 
