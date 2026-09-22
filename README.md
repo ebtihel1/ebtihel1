@@ -7,7 +7,6 @@
 <p>
   <img src="https://img.shields.io/badge/Computer%20Engineering-Student-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack-Developer-181717?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech-Enthusiast-181717?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 <p>
